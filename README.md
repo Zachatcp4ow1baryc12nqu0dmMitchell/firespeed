@@ -9,3 +9,6 @@ TaskFlow is an open-source platform designed to simplify task management and tea
 ## Installation
 1. Clone the repository: `git clone https://github.com/user/taskflow.git`
 2. Install dependencies: `npm install`
+## Getting Started
+Start the application with: `npm start`
+Access TaskFlow at `http://localhost:3000`.
