@@ -12,3 +12,6 @@ TaskFlow is an open-source platform designed to simplify task management and tea
 ## Getting Started
 Start the application with: `npm start`
 Access TaskFlow at `http://localhost:3000`.
+## System Requirements
+- Node.js 16.0+
+- MongoDB 4.4+
