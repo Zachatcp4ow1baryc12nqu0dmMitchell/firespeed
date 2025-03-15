@@ -17,3 +17,5 @@ Access TaskFlow at `http://localhost:3000`.
 - MongoDB 4.4+
 ## Usage Example
 
+## Contributing
+We welcome contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
