@@ -19,3 +19,5 @@ Access TaskFlow at `http://localhost:3000`.
 
 ## Contributing
 We welcome contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+## License
+TaskFlow is licensed under the Apache 2.0 License. See [LICENSE](LICENSE) for details.
