@@ -24,3 +24,6 @@ TaskFlow is licensed under the Apache 2.0 License. See [LICENSE](LICENSE) for de
 ## Development Setup
 Run tests: `npm test`
 Run linter: `npm run lint`
+## FAQ
+Q: Can TaskFlow integrate with Slack?
+A: Yes, see [integrations.md](docs/integrations.md) for setup instructions.
