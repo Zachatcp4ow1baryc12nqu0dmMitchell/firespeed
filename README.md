@@ -29,3 +29,5 @@ Q: Can TaskFlow integrate with Slack?
 A: Yes, see [integrations.md](docs/integrations.md) for setup instructions.
 ## Community
 Join our community on [Slack](https://taskflow-community.slack.com) for support and discussions.
+## Security
+Report security issues to security@taskflow.org. See [SECURITY.md](SECURITY.md).
